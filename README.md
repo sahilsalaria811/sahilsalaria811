@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @sahilsalaria811
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Flutter and Software testing
-- 💞️
+- 👋 Hi, I’m @sahilsalaria811.
+- 👀 I’m interested in coding.
+- 🌱 I’m a Software tester having 1+ year of experienece.
+- 🌱 I’m currently learning Java, Flutter, SQL, And Selenium with java.
+- 🌱 I’m currently learning .
+- 💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️💞️
+-
+
+
+
+
 
 <!---
 sahilsalaria811/sahilsalaria811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
