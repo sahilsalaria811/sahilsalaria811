@@ -1,108 +1,107 @@
-# 👋 Hi, I'm Sahil Salaria
+<!-- HEADER -->
+<h1 align="center">✨ Sahil Salaria ✨</h1>
+<h3 align="center">QA Lead • Dev + QA Manager • Product Quality Owner</h3>
 
-## Team Lead - Quality Assurance | Software Testing Expert
-
-🔍 **4+ years** of experience in software testing, automation, and team leadership  
-🚀 Led QA for **20+ successful product launches** across mobile, web, and WordPress platforms  
-📊 Achieved **95%+ bug detection rate** through strategic test planning
-
----
-
-## 🛠️ Technical Skills
-
-### Expert
-- Manual Testing (Functional, Regression, Smoke, UAT)
-- API Testing (Postman, REST APIs)
-- Test Case Design & Documentation
-- Bug Reporting & Tracking
-- SDLC & STLC
-
-### Advanced
-- Selenium Automation (Java/Python)
-- Git & GitHub
-- Jira & Confluence
-- Team Leadership & Management
-- Test Strategy & Planning
-- Cross-Platform Testing (Web, Mobile, WordPress)
-
-### Currently Learning
-- Flutter Development
-- Advanced Automation Testing
-- CI/CD Integration
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120"/>
+</p>
 
 ---
 
-## 💼 What I Do
+<!-- ABOUT ME -->
+## 👋 About Me
+Hi! I’m **Sahil**, a **QA Lead** with experience managing **development + QA teams**, delivering stable, reliable products across **Mobile, Web, WordPress, and AI-based platforms**.
 
-- 🔧 **Team Leadership**: Managing QA teams of 5+ members across multiple projects
-- 🧪 **Quality Assurance**: Executing 500+ test cases with 98% test coverage
-- 🤖 **Test Automation**: Building automation frameworks using Selenium
-- 📱 **Multi-Platform Testing**: Mobile (iOS/Android), Web, WordPress
-- 🔗 **API Testing**: Comprehensive validation using Postman for RESTful APIs
-- 📊 **Process Improvement**: Reduced regression testing time by 30%
-
----
-
-## 🎯 Featured Projects
-
-### Ubuild - Construction & Contractor App
-Managed dev & QA; led manual/API testing for contractor workflows and full project lifecycle.
-
-### FlippBidd - Real Estate Marketplace
-Managed dev & QA; validated listings, bidding logic, messaging, and map-search functionality.
-
-### Teni Travel - Travel Booking App
-Managed dev & QA; tested search, booking, itinerary, and pricing modules.
-
-### Inspection Doctor
-Managed dev & QA; tested inspection flows, checklists, offline sync, media uploads, and report generation.
+I specialise in:
+- 🔹 Manual Testing (Functional, Regression, UAT)
+- 🔹 API Testing (Postman)
+- 🔹 QA + Dev Workflow Management
+- 🔹 WordPress Platform QA & Management
+- 🔹 Release Management & Sprint Ownership
+- 🔹 Basic Automation (Selenium Java/Python)
+- 🔹 Product Quality Ownership
 
 ---
 
-## 📈 GitHub Stats
+<!-- COLLAPSIBLE SECTIONS -->
+<details>
+<summary><h2>🚀 Top Projects (Managed Dev + QA)</h2></summary>
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsalaria811&show_icons=true&theme=dark)
+### **Ubuild**
+Managed dev & QA; led manual/API testing for contractor workflows & project lifecycle.  
+🔗 https://ubuild.netlify.app
 
----
+### **FlippBidd**
+Managed dev & QA; validated listings, bidding logic, messaging & map search.
 
-## 🌐 Connect With Me
+### **Teni Travel**
+Managed dev & QA; tested search, booking, itinerary & pricing modules.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sahil-salaria/)
-- 🌐 [Portfolio](https://sahil-portfolio-751a1.web.app/)
-- 📧 [Email](mailto:sahilsalaria811@gmail.com)
+### **Inspection Doctor**
+Managed dev & QA; tested inspections, offline sync, uploads & reporting.
 
----
+### **Car Show App**
+Managed dev & QA; validated catalogue browsing, comparisons & enquiry flows.
 
-## 🎓 Certifications
-
-- Software Testing Fundamentals
-- Selenium with Java (In Progress)
-- Python Automation Basics
-
----
-
-## 💬 Languages
-
-**English** | **Hindi** | **Punjabi**
+</details>
 
 ---
 
-## 📊 Experience Highlights
+<details>
+<summary><h2>📁 Other Projects Worked On</h2></summary>
 
-✅ Led QA for 20+ successful product launches  
-✅ Managed cross-functional teams of 5+ members  
-✅ Achieved 95%+ bug detection in pre-production  
-✅ Reduced regression testing time by 30%  
-✅ Executed 500+ test cases with 98% coverage  
-✅ Documented 300+ bugs with detailed reproduction steps
+SummarizeX • DrinkMate • Quote That • Digital Truth • Telecey  
+Ren Athletics • Prime Trainer • GluCare • TheITIN  
+Medini • 29Plus (WordPress) • Salude Beauty Spa  
+Custom WordPress Builds • Company For Nice Girls
 
----
-
-**💡 Open to:** Remote QA positions, Contract work, Freelance projects
-
-**🌟 Currently:** Team Lead - Quality Assurance at SoftRadix Technologies Pvt. Ltd.
+</details>
 
 ---
 
-⭐️ From [sahilsalaria811](https://github.com/sahilsalaria811)
+<!-- TECH STACK -->
+## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,selenium,python,java,wordpress,firebase,figma,html,css" />
+</p>
+
+---
+
+<!-- STATS -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+### 🔥 **GitHub Streak Stats**
+<img src="https://streak-stats.demolab.com?user=sahilsalaria&theme=neon-palenight&hide_border=false" width="500"/>
+
+### 📈 **GitHub Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsalaria&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+### 🌈 **GitHub Stats**
+<img src="https://github-readme-stats.vercel.app/api?username=sahilsalaria&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
+
+### 📦 **Top Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsalaria&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
+
+</div>
+
+---
+
+<!-- CONTACT -->
+## 🔗 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/sahilsalaria  
+- **GitHub:** https://github.com/sahilsalaria  
+- **Twitter:** https://twitter.com/sahilsalaria  
+- **Email:** 📧 **sahilsalaria811@gmail.com**  
+- **Phone:** 📞 +91 9878977894  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Pk4K2zq5yL9s8/giphy.gif" width="180">
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
