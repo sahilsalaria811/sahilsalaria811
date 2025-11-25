@@ -1,107 +1,68 @@
-<!-- HEADER -->
-<h1 align="center">✨ Sahil Salaria ✨</h1>
-<h3 align="center">QA Lead • Dev + QA Manager • Product Quality Owner</h3>
+🚀 Sahil Salaria — QA Lead • Product Quality Owner • Dev+QA Manager
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00D1FF&size=28&center=true&vCenter=true&width=600&lines=QA+Lead+who+builds+quality+products;Managing+Dev+%2B+QA+teams+end-to-end;Product+Quality+Owner+%7C+Manual+%2B+API+%2B+Automation;4%2B+Years+of+Experience+in+Mobile+%26+Web+Apps" /> </p> <p align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=sahilsalaria&theme=nautilus" /> </p>
+🌌 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120"/>
-</p>
+I’m Sahil, a QA Lead passionate about building reliable, fast, and user-centric products.
+I bring a unique blend of:
 
----
+🔹 QA leadership
 
-<!-- ABOUT ME -->
-## 👋 About Me
-Hi! I’m **Sahil**, a **QA Lead** with experience managing **development + QA teams**, delivering stable, reliable products across **Mobile, Web, WordPress, and AI-based platforms**.
+🔹 Dev + QA workflow management
 
-I specialise in:
-- 🔹 Manual Testing (Functional, Regression, UAT)
-- 🔹 API Testing (Postman)
-- 🔹 QA + Dev Workflow Management
-- 🔹 WordPress Platform QA & Management
-- 🔹 Release Management & Sprint Ownership
-- 🔹 Basic Automation (Selenium Java/Python)
-- 🔹 Product Quality Ownership
+🔹 Product ownership mindset
 
----
+🔹 Testing expertise (Manual, API, Automation basics)
 
-<!-- COLLAPSIBLE SECTIONS -->
-<details>
-<summary><h2>🚀 Top Projects (Managed Dev + QA)</h2></summary>
+🔹 WordPress management & Full-cycle delivery
 
-### **Ubuild**
-Managed dev & QA; led manual/API testing for contractor workflows & project lifecycle.  
-🔗 https://ubuild.netlify.app
+I bridge the gap between Design → Development → QA → Release.
 
-### **FlippBidd**
-Managed dev & QA; validated listings, bidding logic, messaging & map search.
+🌈 Tech Universe
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,selenium,python,java,js,html,css,wordpress,figma,firebase,netlify,vscode&perline=7" /> </p>
+💼 Top Projects I Managed (Dev + QA)
 
-### **Teni Travel**
-Managed dev & QA; tested search, booking, itinerary & pricing modules.
+These are the projects where you led both development & QA teams.
 
-### **Inspection Doctor**
-Managed dev & QA; tested inspections, offline sync, uploads & reporting.
+🚧 Ubuild – Construction Management
 
-### **Car Show App**
-Managed dev & QA; validated catalogue browsing, comparisons & enquiry flows.
+Managed dev & QA; led manual/API testing for contractor workflows & full project lifecycle.
 
-</details>
+🏠 FlippBidd – Real Estate Marketplace
 
----
+Managed dev+QA, validated listings, bidding, map search & messaging.
 
-<details>
-<summary><h2>📁 Other Projects Worked On</h2></summary>
+✈️ Teni Travel – Booking App
 
-SummarizeX • DrinkMate • Quote That • Digital Truth • Telecey  
-Ren Athletics • Prime Trainer • GluCare • TheITIN  
-Medini • 29Plus (WordPress) • Salude Beauty Spa  
-Custom WordPress Builds • Company For Nice Girls
+Led search, booking, pricing, itinerary QA + dev coordination.
+
+📋 Inspection Doctor – Inspection Platform
+
+Managed dev+QA for inspections, offline sync, uploads & reporting.
+
+🚗 Car Show App
+
+Managed dev+QA; tested catalogue, comparisons & enquiry flows.
+
+🧿 Other Projects I Contributed To
+<details> <summary><strong>Click to expand full list</strong></summary> <br>
+
+SummarizeX • DrinkMate • Quote That • Digital Truth • Telecey •
+Ren Athletics • Prime Trainer • GluCare • TheITIN • Medini •
+29Plus (WordPress) • Salude Beauty Spa • Custom WordPress Builds • Company For Nice Girls
 
 </details>
-
----
-
-<!-- TECH STACK -->
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,selenium,python,java,wordpress,firebase,figma,html,css" />
-</p>
-
----
-
-<!-- STATS -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-### 🔥 **GitHub Streak Stats**
-<img src="https://streak-stats.demolab.com?user=sahilsalaria&theme=neon-palenight&hide_border=false" width="500"/>
-
-### 📈 **GitHub Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsalaria&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-### 🌈 **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=sahilsalaria&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-
-### 📦 **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsalaria&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
-
-</div>
-
----
-
-<!-- CONTACT -->
-## 🔗 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/sahilsalaria  
-- **GitHub:** https://github.com/sahilsalaria  
-- **Twitter:** https://twitter.com/sahilsalaria  
-- **Email:** 📧 **sahilsalaria811@gmail.com**  
-- **Phone:** 📞 +91 9878977894  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Pk4K2zq5yL9s8/giphy.gif" width="180">
-</p>
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+🔥 Stats & Activity (Modern Themed)
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsalaria&theme=tokyo-night&area=true&hide_border=true" width="100%"/> </p>
+🔥 Streak Stats
+<p align="center"> <img src="https://streak-stats.demolab.com?user=sahilsalaria&theme=blueberry_duo&hide_border=true" width="500"/> </p>
+📊 GitHub Insights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsalaria&show_icons=true&theme=blue_navy&hide_border=true" width="450"/> </p>
+💡 Tech Usage Breakdown
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsalaria&layout=compact&theme=blue_navy&hide_border=true" width="450"/> </p>
+📦 Now Playing With
+<p align="center"> <img src="https://img.shields.io/badge/Selenium%20Automation-In%20Progress-00d1ff?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/DevOps%20Basics-Learning-purple?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/VAPI%20Voice%20Integration-Working-orange?style=for-the-badge&logo=voice&logoColor=white" /> </p>
+🌍 Find Me Around The Web
+<p align="center"> <a href="https://www.linkedin.com/in/sahilsalaria"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a> <a href="https://github.com/sahilsalaria"><img src="https://skillicons.dev/icons?i=github" width="40"/></a> <a href="https://twitter.com/sahilsalaria"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a> </p>
+🎉 Thank You for Visiting My Profile
+<p align="center"> <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200"> </p>
