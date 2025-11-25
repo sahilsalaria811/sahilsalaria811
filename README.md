@@ -1,68 +1,26 @@
-🚀 Sahil Salaria — QA Lead • Product Quality Owner • Dev+QA Manager
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00D1FF&size=28&center=true&vCenter=true&width=600&lines=QA+Lead+who+builds+quality+products;Managing+Dev+%2B+QA+teams+end-to-end;Product+Quality+Owner+%7C+Manual+%2B+API+%2B+Automation;4%2B+Years+of+Experience+in+Mobile+%26+Web+Apps" /> </p> <p align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=sahilsalaria&theme=nautilus" /> </p>
-🌌 About Me
-
-I’m Sahil, a QA Lead passionate about building reliable, fast, and user-centric products.
-I bring a unique blend of:
-
-🔹 QA leadership
-
-🔹 Dev + QA workflow management
-
-🔹 Product ownership mindset
-
-🔹 Testing expertise (Manual, API, Automation basics)
-
-🔹 WordPress management & Full-cycle delivery
-
-I bridge the gap between Design → Development → QA → Release.
-
-🌈 Tech Universe
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,selenium,python,java,js,html,css,wordpress,figma,firebase,netlify,vscode&perline=7" /> </p>
-💼 Top Projects I Managed (Dev + QA)
-
-These are the projects where you led both development & QA teams.
-
-🚧 Ubuild – Construction Management
-
-Managed dev & QA; led manual/API testing for contractor workflows & full project lifecycle.
-
-🏠 FlippBidd – Real Estate Marketplace
-
-Managed dev+QA, validated listings, bidding, map search & messaging.
-
-✈️ Teni Travel – Booking App
-
-Led search, booking, pricing, itinerary QA + dev coordination.
-
-📋 Inspection Doctor – Inspection Platform
-
-Managed dev+QA for inspections, offline sync, uploads & reporting.
-
-🚗 Car Show App
-
-Managed dev+QA; tested catalogue, comparisons & enquiry flows.
-
-🧿 Other Projects I Contributed To
-<details> <summary><strong>Click to expand full list</strong></summary> <br>
+🌟 Sahil Salaria — QA Lead | Dev + QA Manager | Product Quality Owner
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=27&center=true&vCenter=true&width=600&lines=QA+Lead+%7C+Dev+%2B+QA+Manager;Product+Quality+Owner;4%2B+Years+Experience;Mobile+%2F+Web+%2F+WordPress+Expert" /> </p>
+🧊 About Me (Glassmorphism)
+<div align="center" style=" background: rgba(255,255,255,0.08); border-radius: 15px; padding: 18px 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.25); width: 90%; "> Hi! I’m <strong>Sahil</strong> — a <strong>QA Lead</strong> managing both <strong>Development & QA teams</strong> end-to-end. I ensure stable, reliable and high-quality product delivery across mobile apps, web apps, and WordPress platforms. I bridge <strong>Design → Dev → QA → Release</strong> with strong ownership & communication. </div>
+🛠 Tech Stack (Glassmorphic Icon Board)
+<div align="center" style=" background: rgba(255,255,255,0.07); border-radius: 20px; padding: 25px; backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.15); width: 95%; "> <img src="https://skillicons.dev/icons?i=git,github,postman,selenium,python,java,wordpress,figma,javascript,html,css,firebase,netlify&perline=7" /> </div>
+🚀 Top Projects (Glass Cards)
+<!-- Ubuild --> <div style=" background: rgba(255,255,255,0.08); padding: 12px 16px; margin-bottom: 8px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.18); backdrop-filter: blur(8px); "> <strong>Ubuild</strong> — Managed dev & QA; led manual/API testing for contractor workflows & full project lifecycle. 🔗 https://ubuild.netlify.app </div> <!-- FlippBidd --> <div style=" background: rgba(255,255,255,0.08); padding: 12px 16px; margin-bottom: 8px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.18); backdrop-filter: blur(8px); "> <strong>FlippBidd</strong> — Managed dev & QA; validated listings, bidding logic, messaging & map-search. </div> <!-- Teni Travel --> <div style=" background: rgba(255,255,255,0.08); padding: 12px 16px; margin-bottom: 8px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.18); backdrop-filter: blur(8px); "> <strong>Teni Travel</strong> — Managed dev & QA; tested search, booking, itinerary & pricing flows. </div> <!-- Inspection Doctor --> <div style=" background: rgba(255,255,255,0.08); padding: 12px 16px; margin-bottom: 8px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.18); backdrop-filter: blur(8px); "> <strong>Inspection Doctor</strong> — Managed dev & QA; tested inspections, offline sync, uploads & reporting. </div> <!-- Car Show --> <div style=" background: rgba(255,255,255,0.08); padding: 12px 16px; margin-bottom: 8px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.18); backdrop-filter: blur(8px); "> <strong>Car Show App</strong> — Managed dev & QA; validated catalogue browsing, comparisons & enquiry flows. </div>
+📂 Other Projects
 
 SummarizeX • DrinkMate • Quote That • Digital Truth • Telecey •
 Ren Athletics • Prime Trainer • GluCare • TheITIN • Medini •
-29Plus (WordPress) • Salude Beauty Spa • Custom WordPress Builds • Company For Nice Girls
+29Plus (WordPress) • Salude Beauty Spa • Custom WordPress • Company For Nice Girls
 
-</details>
-🔥 Stats & Activity (Modern Themed)
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsalaria&theme=tokyo-night&area=true&hide_border=true" width="100%"/> </p>
+📈 Analytics & Stats (Modern Glass Theme)
+<div align="center" style=" background: rgba(255,255,255,0.05); border-radius: 20px; padding: 20px; border: 1px solid rgba(255,255,255,0.15); backdrop-filter: blur(8px); width: 95%; ">
 🔥 Streak Stats
-<p align="center"> <img src="https://streak-stats.demolab.com?user=sahilsalaria&theme=blueberry_duo&hide_border=true" width="500"/> </p>
-📊 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsalaria&show_icons=true&theme=blue_navy&hide_border=true" width="450"/> </p>
-💡 Tech Usage Breakdown
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsalaria&layout=compact&theme=blue_navy&hide_border=true" width="450"/> </p>
-📦 Now Playing With
-<p align="center"> <img src="https://img.shields.io/badge/Selenium%20Automation-In%20Progress-00d1ff?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/DevOps%20Basics-Learning-purple?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/VAPI%20Voice%20Integration-Working-orange?style=for-the-badge&logo=voice&logoColor=white" /> </p>
-🌍 Find Me Around The Web
+<img src="https://streak-stats.demolab.com?user=sahilsalaria&theme=glass&hide_border=true" width="480"/>
+📊 GitHub Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsalaria&theme=github-dark&area=true&hide_border=true" width="100%"/>
+🌌 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=sahilsalaria&show_icons=true&theme=transparent&hide_border=true" width="450"/>
+🔍 Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsalaria&layout=compact&theme=transparent&hide_border=true" width="350"/> </div>
+🌍 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/sahilsalaria"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a> <a href="https://github.com/sahilsalaria"><img src="https://skillicons.dev/icons?i=github" width="40"/></a> <a href="https://twitter.com/sahilsalaria"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a> </p>
-🎉 Thank You for Visiting My Profile
-<p align="center"> <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200"> </p>
